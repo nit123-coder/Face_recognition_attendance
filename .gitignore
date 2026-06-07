@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Face Data & Media
+known_faces/
+dataset/
+known face/
+unknown face/
+attendance_photos/
+
+# Local SQLite Database
+attendance.db
+
+# IDEs
+.vscode/
+.idea/
