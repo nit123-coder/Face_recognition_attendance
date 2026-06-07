@@ -1,4 +1,4 @@
-# Face-Recognition Attendance System (ScreenRecorder)
+# Face-Recognition Attendance System 
 
 A lightweight desktop application designed to scan faces via a local camera or IP webcam and automatically log attendance. Built with Python, OpenCV, and PySide6.
 
